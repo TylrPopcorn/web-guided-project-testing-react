@@ -30,3 +30,10 @@ export default function App() {
     </div>
   );
 }
+
+//Arrange - set up of the component being tested.
+
+//Act - Execute the behavior we are testing.
+//    - Inclucdes getting the elements we want to interact with, AND execute those interactions
+
+//Assert - Confirming the result/behavior is as expected
